@@ -702,6 +702,10 @@ video {
   margin-bottom: 4rem;
 }
 
+.mt-48 {
+  margin-top: 12rem;
+}
+
 .box-border {
   box-sizing: border-box;
 }
@@ -772,6 +776,10 @@ video {
 
 .w-6 {
   width: 1.5rem;
+}
+
+.w-1\/2 {
+  width: 50%;
 }
 
 .flex-1 {
@@ -914,6 +922,10 @@ video {
   padding-right: 0.875rem;
 }
 
+.pb-8 {
+  padding-bottom: 2rem;
+}
+
 .text-center {
   text-align: center;
 }
@@ -955,6 +967,10 @@ video {
 
 .font-bold {
   font-weight: 700;
+}
+
+.font-semibold {
+  font-weight: 600;
 }
 
 .uppercase {
